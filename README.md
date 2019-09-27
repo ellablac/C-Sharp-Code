@@ -1,4 +1,4 @@
-# Java-Code
-Miscellaneous Java projects.  
+# C-sharp code
+Miscellaneous C-sharp projects.  
 
-This repository is for showing some of my java code
+This repository is for showing some of my c-sharp code
